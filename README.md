@@ -1,6 +1,6 @@
 # Calculo-IMC
 
-#### The purpose of the simple BMI table is just to calculate if the person is within or outside their weight
+#### The purpose of the simple IMC table is just to calculate if the person is within or outside their weight
 
 ![MicrosoftTeams-image (25)](https://user-images.githubusercontent.com/101876911/192662111-5d8da19f-0675-4457-85de-cc90099c1aaf.png)
 
